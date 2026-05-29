@@ -16,7 +16,6 @@ To ensure calculations and time-series analyses function properly, data types we
 
 ### 3. Verification of Calculated Columns
 * **Cross-Check:** Verified that the total order amount matched the core calculation: 
-  $$\text{TotalPrice} = \text{Quantity} \times \text{UnitPrice}$$
   This step ensured that any applied discounts or raw pricing details reflected correct, error-free row-level valuations across the entire e-commerce dataset.
 
 ### 4. Deduplication
